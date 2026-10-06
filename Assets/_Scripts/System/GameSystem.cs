@@ -21,7 +21,7 @@ public class GameSystem : MonoBehaviour
         {
             if (instance == null)
             {
-                instance = FindObjectOfType<GameSystem>();
+                instance = FindFirstObjectByType<GameSystem>();
                 if (instance == null)
                 {
                     GameObject gameObject = new GameObject("GameManager");

@@ -89,7 +89,7 @@ namespace GameScene.GamePlayScene
 
         private PlayerData GetGameModelData()
         {
-            _gameModelManager = FindObjectOfType<GameModelManager>();
+            _gameModelManager = FindFirstObjectByType<GameModelManager>();
 
             return _gameModelManager.LoadData("PlayerData");
         }

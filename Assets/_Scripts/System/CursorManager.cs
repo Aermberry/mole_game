@@ -19,7 +19,7 @@ public class CursorManager : MonoBehaviour
 
     private void Awake()
     {
-        audioSource = FindObjectOfType<AudioSource>();
+        audioSource = FindFirstObjectByType<AudioSource>();
         _cursorController = new CursorController();
         ChangeCursor(defaultCursorTexture);
         Cursor.lockState = CursorLockMode.Confined;
