@@ -18,6 +18,13 @@ MonoImporter:
   defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16641
+  packageName: TexturePacker Importer
+  packageVersion: 7.6.0
+  assetPath: Assets/codeandweb.com/Editor/UIImageSetSizeAndPivot.cs
+  uploadId: 729659

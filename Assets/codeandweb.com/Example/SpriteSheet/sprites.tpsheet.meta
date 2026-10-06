@@ -5,3 +5,10 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16641
+  packageName: TexturePacker Importer
+  packageVersion: 7.6.0
+  assetPath: Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+  uploadId: 729659

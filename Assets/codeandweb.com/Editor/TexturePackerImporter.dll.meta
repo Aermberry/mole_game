@@ -43,3 +43,10 @@ PluginImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16641
+  packageName: TexturePacker Importer
+  packageVersion: 7.6.0
+  assetPath: Assets/codeandweb.com/Editor/TexturePackerImporter.dll
+  uploadId: 729659
