@@ -19,8 +19,6 @@ namespace _Scripts.Domin.Event
         {
             var gopherController = GetComponent<GopherController>();
             
-            // 被点击对象必须挂载一个collider，才能被检测到
-            print("onMouseDown");
             GopherRecycleEvent.Trigger(gopherController);
             ScoreCalculationEvent.Trigger(1);
             
